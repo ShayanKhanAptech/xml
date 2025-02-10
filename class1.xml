@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college xmlns:sfc="https://www.sfc.com" xmlns:msg="https://www.msg.com">
+
+<sfc:student>
+<sfc:id>15720 </sfc:id>
+<sfc:name>shayan </sfc:name>
+<sfc:email>shayan </sfc:email>
+</sfc:student>
+
+<sfc:student>
+<sfc:id>15721 </sfc:id>
+<sfc:name>jawad </sfc:name>
+<sfc:email>jawad@gmail.com </sfc:email>
+</sfc:student>
+
+<sfc:student>
+<sfc:id>15722 </sfc:id>
+<sfc:name>rehan </sfc:name>
+<sfc:email>rehan@gmail.com </sfc:email>
+</sfc:student>
+
+<sfc:student>
+<sfc:id>15723 </sfc:id>
+<sfc:name>hammad</sfc:name>
+<sfc:email>hammad@gmail.com </sfc:email>
+</sfc:student>
+
+<sfc:student>
+<sfc:id>15724 </sfc:id>
+<sfc:name>amir </sfc:name>
+<sfc:email>amir@gmail.com </sfc:email>
+</sfc:student>
+
+<msg:student>
+<msg:id>15725 </msg:id>
+<msg:name>fayaz </msg:name>
+<msg:email>fayaz@gmail.com </msg:email>
+</msg:student>
+
+<msg:student>
+<msg:id>15726 </msg:id>
+<msg:name>shahzad </msg:name>
+<msg:email>shahzad@gmail.com </msg:email>
+</msg:student>
+
+<msg:student>
+<msg:id>15726 </msg:id>
+<msg:name>saif </msg:name>
+<msg:email>saif@gmail.com </msg:email>
+</msg:student>
+
+<msg:student>
+<msg:id>15727 </msg:id>
+<msg:name>sahil </msg:name>
+<msg:email>sahil@gmail.com </msg:email>
+</msg:student>
+
+<msg:student>
+
+<msg:id>15728 </msg:id>
+<msg:name>kaif </msg:name>
+<msg:email>kaif@gmail.com </msg:email>
+</msg:student>
+
+
+</college>
